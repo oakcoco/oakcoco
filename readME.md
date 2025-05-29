@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">Languages I use:</p>
+<h4 align="left">Languages I use:</h4>
 
 ###
 
@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">Social Links:</p>
+<h4 align="left">Social Links:</h4>
 
 ###
 
