@@ -6,7 +6,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=oakcoco&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&custom_title=Github%20Stats" height="125" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oakcoco&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&custom_title=Developer%20Status:" height="125" alt="languages graph"  />
 </div>
@@ -17,11 +17,11 @@
 
 ###
 
-<h4 align="left">Languages I use:</h4>
+<h4 align="center">Languages I use</h4>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -31,11 +31,11 @@
 
 ###
 
-<h4 align="left">Social Links:</h4>
+<h4 align="center">Social Links</h4>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://discord.com/users/538301136352968704" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="37" height="25" alt="discord logo"  />
   </a>
