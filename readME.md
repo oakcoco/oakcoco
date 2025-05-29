@@ -7,13 +7,13 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=oakcoco&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=Github%20Stats" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oakcoco&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&custom_title=Developer%20Status:" height="125" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=oakcoco&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&custom_title=Github%20Stats" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oakcoco&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&custom_title=Developer%20Status:" height="125" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="250" src="https://media1.tenor.com/m/YjJDRk4dXK0AAAAC/anime-frieren.gif"  />
+<img align="right" height="350" src="https://media1.tenor.com/m/YjJDRk4dXK0AAAAC/anime-frieren.gif"  />
 
 ###
 
