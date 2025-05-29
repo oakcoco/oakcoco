@@ -6,7 +6,7 @@
 </p>
 
 <!-- GIF aligned to the left like a small pixel badge -->
-<img align="left" height="125" style="margin-right: 15px;" src="https://media1.tenor.com/m/YjJDRk4dXK0AAAAC/anime-frieren.gif" alt="Anime Pixel" />
+<img align="right" height="300" style="margin-right: 15px;" src="https://media1.tenor.com/m/YjJDRk4dXK0AAAAC/anime-frieren.gif" alt="Anime Pixel" />
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=oakcoco&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&custom_title=Github%20Stats" height="125" alt="stats graph" />
