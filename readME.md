@@ -15,7 +15,7 @@
 
 <br clear="both">
 
-<img align="right" style="margin-left: 15px;" height="300" src="https://media1.tenor.com/m/YjJDRk4dXK0AAAAC/anime-frieren.gif"  />
+<img align="right" style="margin-left: 100px;" height="300" src="https://media1.tenor.com/m/YjJDRk4dXK0AAAAC/anime-frieren.gif"  />
 
 ###
 
