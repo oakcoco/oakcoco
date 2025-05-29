@@ -13,7 +13,7 @@
 
 ###
 
-<img align="right" height="350" src="https://media1.tenor.com/m/YjJDRk4dXK0AAAAC/anime-frieren.gif"  />
+<img align="left" height="275" src="https://media1.tenor.com/m/YjJDRk4dXK0AAAAC/anime-frieren.gif"  />
 
 ###
 
