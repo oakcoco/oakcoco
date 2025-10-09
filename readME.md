@@ -2,7 +2,6 @@
 
 <p align="left">
   🌳 Passionate about computing and sustainable agriculture.<br>
-  📕 Guided by strength and driven by reform.
 </p>
 <br>
 <br>
