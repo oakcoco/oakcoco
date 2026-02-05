@@ -1,7 +1,7 @@
 <h2 align="left">About me:</h2>
 
 <p align="left">
-  🌳 Passionate about computing and sustainable agriculture.<br>
+<br>
 </p>
 <br>
 <br>
