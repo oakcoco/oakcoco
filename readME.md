@@ -1,7 +1,6 @@
 <h2 align="left">About me:</h2>
 
 <p align="left">
-<br>
 </p>
 
 <!-- GIF aligned to the left like a small pixel badge -->
